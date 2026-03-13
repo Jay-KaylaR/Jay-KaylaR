@@ -28,13 +28,62 @@ Power Automate Power Apps Microsoft Excel
 ☁️ Cloud & Dev Tools
 AWS Azure Google Cloud Git GitHub
 
-🏗️ Featured Work
-🅿️ Parking System — Laravel-based parking management platform
-🤖 Business Process Automation — Power Automate + Python workflows
-🌐 Full-Stack Web Applications — Django & MERN stack
-📱 Android Applications — Kotlin & Jetpack Compose
-📊 GitHub Stats
-  
+---
+
+### 🌟 Featured Projects
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌍 Wanderlust Travels</h4>
+      <p>A high-end travel booking platform featuring dynamic search, interactive maps, and a seamless checkout experience.</p>
+      <code>Next.js</code> <code>Tailwind</code> <code>Stripe</code>
+      <br><br>
+      <a href="#">🔗 Live Demo</a> | <a href="#">📂 Repo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚛️ Quantum Creations Inc.</h4>
+      <p>A sleek, corporate-grade landing page for a creative agency, focusing on high-performance animations and glassmorphism.</p>
+      <code>React</code> <code>Framer Motion</code> <code>Three.js</code>
+      <br><br>
+      <a href="#">🔗 Live Demo</a> | <a href="#">📂 Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎓 Quantum Digital School</h4>
+      <p>A full-scale LMS (Learning Management System) with course progress tracking, video streaming, and student dashboards.</p>
+      <code>Node.js</code> <code>PostgreSQL</code> <code>Express</code>
+      <br><br>
+      <a href="#">🔗 Live Demo</a> | <a href="#">📂 Repo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏠 House Hunting Solutions</h4>
+      <p>Real estate marketplace with advanced filtering, saved searches, and an integrated messaging system for agents.</p>
+      <code>Django</code> <code>React</code> <code>Google Maps API</code>
+      <br><br>
+      <a href="#">🔗 Live Demo</a> | <a href="#">📂 Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💼 My Portfolio</h4>
+      <p>My digital home. Built with a focus on accessibility, SEO optimization, and a custom dark/light theme engine.</p>
+      <code>TypeScript</code> <code>Next.js</code> <code>MDX</code>
+      <br><br>
+      <a href="#">🔗 Live Demo</a> | <a href="#">📂 Repo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌤️ Weather Dashboard</h4>
+      <p>A real-time weather tracking app that provides hyper-local forecasts and historical weather data visualization.</p>
+      <code>JavaScript</code> <code>OpenWeather API</code> <code>Chart.js</code>
+      <br><br>
+      <a href="#">🔗 Live Demo</a> | <a href="#">📂 Repo</a>
+    </td>
+  </tr>
+</table>
+
+---
 
 🌍 Connect With Me
 Portfolio LinkedIn YouTube
