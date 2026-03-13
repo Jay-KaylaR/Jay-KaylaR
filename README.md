@@ -12,21 +12,6 @@ I also train and mentor developers, helping them move from fundamentals to produ
 🤖 Business process automation with Power Automate & Python
 👨‍🏫 Delivering full-stack web development training (Django, Laravel, MERN Stack: HTML → React → Node → Databases)
 ☁️ Deploying and managing applications on AWS, Azure & Google Cloud
-🧠 Tech Stack
-🧩 Backend
-Python Django PHP Laravel Node.js
-
-🎨 Frontend
-React JavaScript HTML5 CSS3 Bootstrap
-
-🗄️ Databases
-MySQL MongoDB Firebase
-
-🤖 Automation & Productivity
-Power Automate Power Apps Microsoft Excel
-
-☁️ Cloud & Dev Tools
-AWS Azure Google Cloud Git GitHub
 
 ---
 🛠️ My Tech Stack
