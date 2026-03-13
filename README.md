@@ -55,6 +55,105 @@ I also train and mentor developers, helping them move from fundamentals to produ
 
 
 🌟 Featured Projects
+<table width="100%">
+<tr>
+<td width="33.3%" valign="top">
+<div align="center">
+<b>🌍 Wanderlust Travels</b>
+<hr>
+<p>Premium travel booking platform with dynamic search and maps.</p>
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
+
+
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+
+
+
+<a href="#">🔗 Demo</a> | <a href="#">📂 Code</a>
+</div>
+</td>
+<td width="33.3%" valign="top">
+<div align="center">
+<b>⚛️ Quantum Inc.</b>
+<hr>
+<p>Corporate agency site with high-performance animations.</p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+
+
+<img src="https://img.shields.io/badge/Framer-000?style=flat-square&logo=framer" />
+
+
+
+<a href="#">🔗 Demo</a> | <a href="#">📂 Code</a>
+</div>
+</td>
+<td width="33.3%" valign="top">
+<div align="center">
+<b>🎓 Quantum School</b>
+<hr>
+<p>Full-scale LMS with progress tracking and video streaming.</p>
+<img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white" />
+
+
+<img src="https://img.shields.io/badge/Postgres-336791?style=flat-square&logo=postgresql" />
+
+
+
+<a href="#">🔗 Demo</a> | <a href="#">📂 Code</a>
+</div>
+</td>
+</tr>
+<tr>
+<td width="33.3%" valign="top">
+<div align="center">
+<b>🏠 House Hunting</b>
+<hr>
+<p>Real estate marketplace with advanced filtering systems.</p>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django" />
+
+
+<img src="https://img.shields.io/badge/Maps-4285F4?style=flat-square&logo=google-maps" />
+
+
+
+<a href="#">🔗 Demo</a> | <a href="#">📂 Code</a>
+</div>
+</td>
+<td width="33.3%" valign="top">
+<div align="center">
+<b>💼 My Portfolio</b>
+<hr>
+<p>SEO optimized personal branding site with dark mode.</p>
+<img src="https://img.shields.io/badge/TS-007ACC?style=flat-square&logo=typescript" />
+
+
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
+
+
+
+<a href="#">🔗 Demo</a> | <a href="#">📂 Code</a>
+</div>
+</td>
+<td width="33.3%" valign="top">
+<div align="center">
+<b>🌤️ Weather Dash</b>
+<hr>
+<p>Real-time tracking with historical data visualization.</p>
+<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+
+
+<img src="https://img.shields.io/badge/Charts-FF6384?style=flat-square&logo=chart.js&logoColor=white" />
+
+
+
+<a href="#">🔗 Demo</a> | <a href="#">📂 Code</a>
+</div>
+</td>
+</tr>
+</table>
+
+
+🌟 Featured Projects
 <details open>
 <summary><b> 🌍 Wanderlust Travels</b></summary>
 <br />
