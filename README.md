@@ -30,57 +30,65 @@ AWS Azure Google Cloud Git GitHub
 
 ---
 
-### 🌟 Featured Projects
+🛠️ My Tech Stack
+Frontend
+
+Backend & Database
+
+Tools & DevOps
+
+🌟 Featured Projects
+Using a card-style layout for your projects makes them look like a professional portfolio gallery.
 
 <table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🌍 Wanderlust Travels</h4>
-      <p>A high-end travel booking platform featuring dynamic search, interactive maps, and a seamless checkout experience.</p>
-      <code>Next.js</code> <code>Tailwind</code> <code>Stripe</code>
-      <br><br>
-      <a href="#">🔗 Live Demo</a> | <a href="#">📂 Repo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚛️ Quantum Creations Inc.</h4>
-      <p>A sleek, corporate-grade landing page for a creative agency, focusing on high-performance animations and glassmorphism.</p>
-      <code>React</code> <code>Framer Motion</code> <code>Three.js</code>
-      <br><br>
-      <a href="#">🔗 Live Demo</a> | <a href="#">📂 Repo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎓 Quantum Digital School</h4>
-      <p>A full-scale LMS (Learning Management System) with course progress tracking, video streaming, and student dashboards.</p>
-      <code>Node.js</code> <code>PostgreSQL</code> <code>Express</code>
-      <br><br>
-      <a href="#">🔗 Live Demo</a> | <a href="#">📂 Repo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🏠 House Hunting Solutions</h4>
-      <p>Real estate marketplace with advanced filtering, saved searches, and an integrated messaging system for agents.</p>
-      <code>Django</code> <code>React</code> <code>Google Maps API</code>
-      <br><br>
-      <a href="#">🔗 Live Demo</a> | <a href="#">📂 Repo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💼 My Portfolio</h4>
-      <p>My digital home. Built with a focus on accessibility, SEO optimization, and a custom dark/light theme engine.</p>
-      <code>TypeScript</code> <code>Next.js</code> <code>MDX</code>
-      <br><br>
-      <a href="#">🔗 Live Demo</a> | <a href="#">📂 Repo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🌤️ Weather Dashboard</h4>
-      <p>A real-time weather tracking app that provides hyper-local forecasts and historical weather data visualization.</p>
-      <code>JavaScript</code> <code>OpenWeather API</code> <code>Chart.js</code>
-      <br><br>
-      <a href="#">🔗 Live Demo</a> | <a href="#">📂 Repo</a>
-    </td>
-  </tr>
+<tr>
+<td>
+<h3>🌍 Wanderlust Travels</h3>
+<p>Premium travel booking platform.</p>
+<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
+<img src="https://img.shields.io/badge/Tailwind-blue?style=flat-square&logo=tailwind-css" />
+<img src="https://img.shields.io/badge/Stripe-purple?style=flat-square&logo=stripe" />
+
+
+
+<a href="#"><b>View Project →</b></a>
+</td>
+<td>
+<h3>⚛️ Quantum Creations Inc.</h3>
+<p>Modern agency landing page.</p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Framer_Motion-black?style=flat-square&logo=framer" />
+<img src="https://img.shields.io/badge/Three.js-white?style=flat-square&logo=three.js&logoColor=black" />
+
+
+
+<a href="#"><b>View Project →</b></a>
+</td>
+</tr>
+<tr>
+<td>
+<h3>🎓 Quantum Digital School</h3>
+<p>Comprehensive Learning Management System.</p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js" />
+<img src="https://img.shields.io/badge/Express-black?style=flat-square&logo=express" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql" />
+
+
+
+<a href="#"><b>View Project →</b></a>
+</td>
+<td>
+<h3>🏠 House Hunting Solutions</h3>
+<p>Real estate marketplace platform.</p>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Maps_API-4285F4?style=flat-square&logo=google-maps" />
+
+
+
+<a href="#"><b>View Project →</b></a>
+</td>
+</tr>
 </table>
 
 ---
