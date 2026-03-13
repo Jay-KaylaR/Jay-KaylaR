@@ -54,6 +54,54 @@ I also train and mentor developers, helping them move from fundamentals to produ
 </p>
 
 🌟 Featured Projects
+<div align="center">
+<a href="LINK_TO_REPO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Wanderlust-Travels&theme=radical&show_owner=true" alt="Wanderlust Travels Card" />
+</a>
+</div>
+
+<br />
+
+<div align="center">
+<a href="LINK_TO_REPO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Quantum-Creations-Inc&theme=blue-green" alt="Quantum Creations Card" />
+</a>
+</div>
+
+<br />
+
+<div align="center">
+<a href="LINK_TO_REPO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Quantum-Digital-School&theme=tokyonight" alt="Quantum Digital School Card" />
+</a>
+</div>
+
+<br />
+
+<div align="center">
+<a href="LINK_TO_REPO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=House-Hunting-Solutions&theme=cobalt" alt="House Hunting Card" />
+</a>
+</div>
+
+<br />
+
+<div align="center">
+<a href="LINK_TO_REPO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=My-Portfolio&theme=dracula" alt="Portfolio Card" />
+</a>
+</div>
+
+<br />
+
+<div align="center">
+<a href="LINK_TO_REPO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Weather-Dashboard&theme=ocean_dark" alt="Weather Dashboard Card" />
+</a>
+</div>
+
+
+🌟 Featured Projects
 Using a card-style layout for your projects makes them look like a professional portfolio gallery.
 
 <table border="0">
