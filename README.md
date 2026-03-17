@@ -228,19 +228,28 @@ Using a card-style layout for your projects makes them look like a professional 
 
 ---
 
-🌍 Connect With Me
-Portfolio LinkedIn YouTube
+🌐 Connect & Support
+We’ll use Social Badges instead of text links to make them look like buttons.
+
+<p align="left">
+<a href="[YOUR_PORTFOLIO_LINK](https://proportfolio-one.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+<a href="YOUR_LINKEDIN_LINK"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="YOUR_YOUTUBE_LINK"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="YOUR_PAYPAL_LINK"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
+</p>
 
 🏆 GitHub Trophies
 
+<p align="left">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</a>
+</p>
 
 ✍️ Dev Quote
 
-
-
-
-💰 Support My Work
-PayPal
+[!TIP]
+"The best way to learn is to build; the best way to master is to teach."
 
 <!---
 Jay-KaylaR/Jay-KaylaR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
