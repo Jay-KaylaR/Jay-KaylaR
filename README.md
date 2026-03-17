@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jay-KaylaR
+- 👋 Hi, I’m @Jay
 
 ### ⚡ Full-Stack Developer | Automation Specialist | Technical Trainer
 
