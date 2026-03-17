@@ -1,17 +1,31 @@
 - 👋 Hi, I’m @Jay-KaylaR
 - .
-💻 Full-Stack Developer | Automation Specialist | Technical Trainer
-☁️ AWS Certified Cloud Practitioner
+### ⚡ Full-Stack Developer | Automation Specialist | Technical Trainer
 
-I build scalable web systems, automation solutions, and real-world applications using modern backend and frontend technologies.
-I also train and mentor developers, helping them move from fundamentals to production-ready systems.
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trainer-Expert-FFD700?style=for-the-badge&logo=google-classroom&logoColor=black" />
+</p>
 
-🚀 What I’m Working On
-🔧 Building full-stack web systems (Django, PHP, Laravel)
-🅿️ Developing a robust parking system-- Uber and Bolt kind, a Laravel-based parking management system
-🤖 Business process automation with Power Automate & Python
-👨‍🏫 Delivering full-stack web development training (Django, Laravel, MERN Stack: HTML → React → Node → Databases)
-☁️ Deploying and managing applications on AWS, Azure & Google Cloud
+---
+
+### 📖 About Me
+I build **scalable web systems**, **automation solutions**, and **real-world applications**. With a focus on both the "how" and the "why," I bridge the gap between complex backend logic and intuitive frontend experiences. 
+
+Beyond development, I **train and mentor** the next generation of developers, guiding them from core fundamentals to shipping production-ready systems.
+
+---
+
+### 🏗️ What I’m Building & Driving
+
+| Focus | Project / Activity |
+| :--- | :--- |
+| **🚗 Smart Logistics** | Developing a robust **Laravel-based Parking Management System** (The "Uber/Bolt" of parking). |
+| **🤖 Automation** | Engineering business process automation using **Power Automate & Python**. |
+| **👨‍🏫 Mentorship** | Delivering end-to-end **Full-Stack Training** (MERN, Django, Laravel). |
+| **☁️ Cloud Ops** | Deploying and architecting high-availability apps on **AWS, Azure & Google Cloud**. |
+
+---
 
 ---
 🛠️ My Tech Stack
