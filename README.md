@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jay-KaylaR
-- .
+
 ### ⚡ Full-Stack Developer | Automation Specialist | Technical Trainer
 
 <p align="left">
@@ -25,7 +25,6 @@ Beyond development, I **train and mentor** the next generation of developers, gu
 | **👨‍🏫 Mentorship** | Delivering end-to-end **Full-Stack Training** (MERN, Django, Laravel). |
 | **☁️ Cloud Ops** | Deploying and architecting high-availability apps on **AWS, Azure & Google Cloud**. |
 
----
 
 ---
 🛠️ My Tech Stack
@@ -39,6 +38,8 @@ Beyond development, I **train and mentor** the next generation of developers, gu
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
 </p>
 
 ⚙️ Backend & API
