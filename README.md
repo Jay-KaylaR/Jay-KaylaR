@@ -173,7 +173,7 @@ Beyond development, I **train and mentor** the next generation of developers, gu
 
 
 🌟 Featured Projects
-Using a card-style layout for your projects makes them look like a professional portfolio gallery.
+
 
 <table border="0">
 <tr>
